@@ -258,7 +258,7 @@ const styles = StyleSheet.create({
   },
   categoryCard: {
     width: '47%',
-    padding: 16,
+    padding: 10,
     borderRadius: 16,
     elevation: 4,
     shadowColor: '#000',
@@ -268,7 +268,7 @@ const styles = StyleSheet.create({
   },
   categoryName: {
     fontFamily: 'Poppins-SemiBold',
-    fontSize: 18,
+    fontSize: 16,
     color: '#FFFFFF',
     marginTop: 12,
   },
@@ -276,8 +276,9 @@ const styles = StyleSheet.create({
     fontFamily: 'Poppins-Regular',
     fontSize: 14,
     color: '#FFFFFF',
-    opacity: 0.9,
+    fontWeight: '300',
     marginTop: 4,
+    opacity: 0.9,
   },
   section: {
     marginTop: 24,
