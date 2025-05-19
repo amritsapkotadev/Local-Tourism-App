@@ -4,7 +4,7 @@
     "slug": "ghumne",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/Flag_of_Nepal.png",
+    "icon": "./assets/FLAGOFNEPALFORCODE.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
@@ -19,7 +19,7 @@
     "android": {
       "package": "com.amritsapkota.exponative",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/iconforapp.png",
         "backgroundColor": "#ffffff"
       }
     },
